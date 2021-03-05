@@ -1,15 +1,16 @@
-id: opecha:P006938
+id: P006938
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG20879
   title: བོད་ཀྱི་གསར་བརྗེའི་ལོ་རྒྱུས།
-  volume:
+  author: ''
+  volumes:
     6a80b6681b0e4bb1859920b0bb7583a6:
       image_group_id: I1KG20969
       title: Volume 1 of bod kyi gsar brje'i lo rgyus/
       volume_number: 1
       total_pages: 658
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་ཀྱི་གསར་བརྗེའི་ལོ་རྒྱུས།
   author: ''
