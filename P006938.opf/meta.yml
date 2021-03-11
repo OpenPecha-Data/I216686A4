@@ -5,11 +5,12 @@ source_metadata:
   title: བོད་ཀྱི་གསར་བརྗེའི་ལོ་རྒྱུས།
   author: ''
   volumes:
-    e9bf31f06b3047b6bf940d5c301b4be2:
+    6a80b6681b0e4bb1859920b0bb7583a6:
       image_group_id: I1KG20969
-      title: ''
+      title: Volume 1 of bod kyi gsar brje'i lo rgyus/
       volume_number: 1
       total_pages: 658
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་ཀྱི་གསར་བརྗེའི་ལོ་རྒྱུས།
   author: ''
